@@ -1,4 +1,5 @@
 #include <iostream>
+#include <string>
 using namespace std;
 
 int main(){
@@ -8,6 +9,10 @@ int main(){
     
     // String 
     string name = "Adit";
+    
+    // Char Array
+    
+    char name2[4] = "Adit"
 
     // Integers
     int age = 50;
