@@ -1,1 +1,3 @@
-# CPP
+# Learning C++
+
+Python > C++
